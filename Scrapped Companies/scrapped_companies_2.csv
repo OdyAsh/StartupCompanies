@@ -1,2 +1,480 @@
 index,employee_count,country,number_of_technologies,annual_rev
 30002,0,United States,0,
+30003,5,United States,1,195000.0
+30004,14,United States,7,5000000.0
+30005,0,,1,
+30006,10,United States,3,25000000.0
+30007,11,United States,9,3328000.0
+30008,2,Ecuador,6,
+30009,0,Germany,4,
+30010,29,United States,12,11232000.0
+30101,47,United States,9,50000000.0
+30102,4,United States,14,3592000.0
+30103,680,United States,5,64000000.0
+30104,65,United States,13,10377000.0
+30105,2,United States,8,30003000.0
+30106,0,United States,3,2400000.0
+30107,38,United States,18,990000.0
+30108,520,United States,22,75000000.0
+30109,26,United States,12,194000.0
+30110,35,United States,25,8890000.0
+30201,0,Iceland,2,1400000.0
+30202,0,United States,0,
+30203,75,United States,10,63000000.0
+30205,140,United States,19,36000000.0
+30206,58,United States,7,5993000.0
+30208,3,United States,6,6000000.0
+30209,9,United States,25,4420000.0
+30210,3,United States,6,
+30302,0,United States,5,2400000.0
+30303,210,United States,46,170200000.0
+30304,0,United States,0,
+30305,39,India,17,1000000.0
+30306,33,Argentina,3,169000.0
+30307,10,United States,0,10000000.0
+30308,3800,India,18,300000000.0
+30309,47,Jordan,16,6000000.0
+30401,1,United States,6,7000000.0
+30402,27,United States,11,4749000.0
+30403,89,Sweden,25,3000000.0
+30404,0,Spain,5,
+30405,0,United States,0,
+30406,0,United States,0,
+30407,48,United States,21,12601000.0
+30408,27,United States,1,1126000.0
+30409,5,United States,17,4789000.0
+30410,1,United States,2,36191000.0
+30501,0,United States,6,6000000.0
+30503,3,India,5,3533000.0
+30504,226000,Australia,25,41400000000.0
+30505,49,United States,1,24259000.0
+30506,43,United States,4,18007000.0
+30507,0,United Kingdom,24,7000000.0
+30508,21,United States,19,4123000.0
+30509,71,United States,22,5115000.0
+30510,44,India,20,3000000.0
+30601,1,Portugal,0,
+30602,250,United States,6,28978000.0
+30603,38,United States,6,4389000.0
+30605,12,United States,4,
+30606,12,United States,10,6000000.0
+30607,0,United States,10,2000000.0
+30608,340,United States,21,240000000.0
+30610,0,United States,2,
+30701,200,United States,13,18750000.0
+30702,29,United States,9,6726000.0
+30703,9,Philippines,0,
+30704,0,United States,3,1400000.0
+30705,0,United States,0,1400000.0
+30706,16,India,7,4000000.0
+30707,4,United States,5,16074000.0
+30709,2,United States,11,277000.0
+30710,2,United States,2,6439000.0
+30801,67,United States,6,9333000.0
+30802,35,United States,0,11110000.0
+30803,15,United States,17,4091000.0
+30804,36,United States,2,1044000.0
+30805,7,United States,3,2497000.0
+30806,3,United States,12,5264000.0
+30807,68,United States,7,19112000.0
+30808,42,United States,0,2816000.0
+30809,2,Hong Kong,10,30600000.0
+30810,0,United States,12,
+30901,3,Italy,10,
+30902,120,United States,6,27035000.0
+30903,1,,21,
+30904,44,Canada,0,5910000.0
+30905,6,United States,1,652000.0
+30906,24,United States,15,8554000.0
+30907,2,Singapore,3,
+30908,47,United States,6,6000000.0
+30909,47,United States,6,6000000.0
+30910,2,United Kingdom,7,2800000.0
+30002,0,United States,0,
+30003,5,United States,1,195000.0
+30004,14,United States,7,5000000.0
+30005,0,,1,
+30006,10,United States,3,25000000.0
+30007,11,United States,9,3328000.0
+30008,2,Ecuador,6,
+30009,0,Germany,4,
+30010,29,United States,12,11232000.0
+30011,38,United States,5,2519000.0
+30012,8,United States,9,
+30013,5,United Kingdom,12,42000000.0
+30014,1,United States,7,
+30015,29,Ireland,12,2500000.0
+30016,0,United States,3,7000000.0
+30017,25000,United States,36,10300000000.0
+30018,0,Germany,3,
+30019,140,Denmark,16,5925000.0
+30020,200,France,15,20880000.0
+30021,0,United States,0,
+30022,14,Canada,9,6000.0
+30023,2,United States,8,673000.0
+30024,4,,6,522000.0
+30025,0,United States,2,
+30026,0,United States,1,
+30027,0,United States,7,
+30029,1,United States,0,1400000.0
+30030,0,Brazil,12,
+30031,77,United States,10,13516000.0
+30032,27,India,14,4420000.0
+30033,0,,0,
+30034,0,China,2,59100000.0
+30035,0,Spain,10,
+30036,0,,15,
+30037,48,France,20,
+30038,44,United States,12,4682000.0
+30039,0,,4,
+30040,0,Russia,0,
+30041,31,United States,4,3800000.0
+30042,110,United States,24,23200000.0
+30043,33,India,4,2877000.0
+30044,0,United States,0,
+30045,3,Canada,14,402000.0
+30047,34,Taiwan,8,
+30048,0,China,1,
+30049,0,United States,1,
+30050,0,United States,3,35000000.0
+30051,35,United Kingdom,9,3693000.0
+30052,0,United States,0,
+30053,6,United States,4,
+30054,0,,3,
+30055,150,Malaysia,13,2384000.0
+30056,10,United States,10,40000000.0
+30057,150,United States,13,12000000.0
+30058,0,Czechia,9,
+30059,0,United States,0,4200000.0
+30060,0,Czechia,2,
+30061,0,United States,12,
+30062,74,Canada,0,2878000.0
+30063,5,United States,7,4606000.0
+30064,630,Armenia,2,43656000.0
+30065,1,United States,2,7000000.0
+30066,0,Guatemala,7,
+30067,3,United States,6,13280000.0
+30068,6,Kenya,8,355000.0
+30069,0,Denmark,3,2000000.0
+30070,0,Germany,1,
+30071,240,United States,1,42335000.0
+30073,0,Netherlands,6,1400000.0
+30074,120,Germany,14,5000000.0
+30076,10,,12,10000000.0
+30077,46,Australia,0,703000.0
+30078,31,Portugal,11,1739000.0
+30079,5,United Kingdom,14,298000.0
+30080,0,Germany,1,
+30081,30,United Kingdom,24,10285000.0
+30082,21,Canada,1,7000000.0
+30083,0,United States,0,
+30084,320,United States,12,120000000.0
+30085,0,,5,6000000.0
+30086,4,United States,10,8000000.0
+30087,19,Germany,8,11000000.0
+30088,9,United States,0,10000000.0
+30089,0,Germany,2,
+30090,0,United Kingdom,0,
+30091,2,United States,1,16577000.0
+30092,0,United States,1,6000000.0
+30093,9,Australia,18,8000000.0
+30095,400,United States,23,113400000.0
+30096,7,United States,11,2000000.0
+30097,0,United Kingdom,9,
+30098,1,Spain,1,
+30099,4,United States,24,4200000.0
+30100,17,United States,10,10000000.0
+30101,47,United States,9,50000000.0
+30110,35,United States,25,8890000.0
+30102,4,United States,14,3592000.0
+30104,65,United States,13,10377000.0
+30105,2,United States,8,30003000.0
+30106,0,United States,3,2400000.0
+30107,38,United States,18,990000.0
+30108,520,United States,22,75000000.0
+30109,26,United States,12,194000.0
+30103,680,United States,5,64000000.0
+30111,49,United States,3,615000.0
+30112,31,United States,16,4200000.0
+30113,9,United States,6,201000.0
+30114,0,United States,1,2400000.0
+30115,4,United States,13,3800000.0
+30117,35,United States,13,3000000.0
+30118,18,United States,20,2226000.0
+30119,96,United States,5,3000000.0
+30120,4,United Kingdom,5,219000.0
+30121,0,Germany,1,
+30122,87,United States,21,5000000.0
+30123,0,Australia,6,2400000.0
+30124,150,India,20,2500000.0
+30125,0,United States,8,
+30126,180,China,0,
+30127,36,United States,17,4266000.0
+30128,35,United States,4,8639000.0
+30129,0,United States,1,
+30130,57,United States,3,4145000.0
+30131,0,United States,6,2000000.0
+30132,0,United States,4,
+30133,7,United States,31,1000000.0
+30134,0,United States,2,1400000.0
+30135,23,United States,29,8232000.0
+30136,0,Greece,1,
+30137,0,,30,
+30138,0,United States,2,
+30139,2,United States,23,
+30140,0,,2,
+30141,0,United States,8,
+30142,17,United States,5,7000000.0
+30143,4,United States,5,1000000.0
+30144,0,,3,
+30145,15,United States,20,10200000.0
+30146,4,United States,3,6000000.0
+30147,3,United States,1,
+30148,0,United States,9,
+30149,1,Singapore,11,
+30150,310,United States,12,58750000.0
+30151,54,United States,19,2400000.0
+30152,10,United States,10,11695000.0
+30153,6,United States,17,
+30154,98,United States,5,14336000.0
+30155,0,United States,21,75000000.0
+30156,0,United States,10,4200000.0
+30157,190,United States,33,15000000.0
+30158,5,United States,9,3028000.0
+30159,140,Russia,25,5082000.0
+30160,0,India,7,
+30162,2,United States,8,2500000.0
+30161,1,Chile,0,
+30164,4,United States,3,6000000.0
+30165,0,United States,20,
+30166,1,United Kingdom,0,
+30167,2,United States,4,12000000.0
+30168,5,United States,2,
+30169,2,India,8,4420000.0
+30170,130,United States,4,28407000.0
+30163,32,Germany,4,
+30171,72,United States,19,4526000.0
+30172,5,United States,15,3076000.0
+30173,0,Germany,2,
+30174,4,United States,11,6609000.0
+30175,0,United States,0,
+30176,0,United States,5,2000000.0
+30177,91,United Kingdom,7,5443000.0
+30178,170,United States,5,4420000.0
+30179,14,United States,19,2000000.0
+30180,0,,3,
+30181,7,India,10,
+30183,2,United States,0,4444000.0
+30184,22,United States,3,3678000.0
+30185,46,Singapore,11,
+30186,280,China,10,149595000.0
+30187,0,United States,1,
+30188,29,China,0,8396000.0
+30189,8,Ukraine,5,351000.0
+30190,31,India,15,2399000.0
+30191,9,Indonesia,0,
+30193,88,United States,27,30700000.0
+30194,8,United States,15,5000000.0
+30195,2,Canada,6,10000000.0
+30196,0,United States,3,
+30197,0,United States,2,2400000.0
+30198,2,Ireland,3,3200000.0
+30199,0,United States,1,17500000.0
+30200,6,United States,3,20448000.0
+30201,0,Iceland,2,1400000.0
+30202,0,United States,0,
+30203,75,United States,10,63000000.0
+30205,140,United States,19,36000000.0
+30206,58,United States,7,5993000.0
+30208,3,United States,6,6000000.0
+30209,9,United States,25,4420000.0
+30210,3,United States,6,
+30211,4,Brazil,21,
+30212,61,United States,1,19720000.0
+30213,0,Spain,2,
+30214,38,United States,11,12364000.0
+30215,99,United States,10,272981000.0
+30217,0,United States,29,2400000.0
+30218,2,United States,0,
+30219,15,United States,14,5000000.0
+30220,43,United States,16,15000000.0
+30224,44,United States,0,7564000.0
+30221,0,United States,0,7000000.0
+30222,19,United States,2,2352000.0
+30223,2,United States,3,
+30226,270,United States,21,48500000.0
+30227,0,,2,
+30228,12,United States,12,405860000.0
+30229,9,United States,7,6311000.0
+30230,0,,0,
+30225,16,Taiwan,32,
+30239,0,United States,3,
+30231,3,Canada,5,151000.0
+30232,6,Australia,10,
+30233,6,United States,15,477000.0
+30234,40,United States,5,14000000.0
+30235,31,United States,0,3160000.0
+30236,110,United States,4,20329000.0
+30237,5,United States,3,1000000.0
+30238,12,United States,1,5000000.0
+30240,0,Romania,4,
+30241,1,Russia,15,2000000.0
+30242,0,Spain,7,
+30243,50,United States,5,6700000.0
+30244,40,United States,3,500000.0
+30245,0,United States,6,
+30247,3,United States,10,2376000.0
+30248,1,United States,0,
+30249,4,United States,18,6100000.0
+30250,24,United States,2,17524000.0
+30251,0,Brazil,0,
+30252,2,Netherlands,12,
+30253,1600,United States,12,80000000.0
+30254,2100,United States,25,447948000.0
+30255,11,United States,21,4371000.0
+30256,3,United States,7,
+30257,50,United States,0,92404000.0
+30258,1500,United States,35,443026000.0
+30259,0,United States,14,
+30260,3,United States,3,475000.0
+30261,2,Finland,13,
+30262,0,United States,0,
+30263,5,,13,393000.0
+30264,0,United States,2,
+30265,7,India,1,514000.0
+30266,15,United States,24,7499000.0
+30268,20,United States,13,8125000.0
+30269,6,United States,3,408000.0
+30270,2,United States,16,373000.0
+30271,3,United States,5,10000000.0
+30272,14,Germany,7,
+30273,4,United Kingdom,5,2200000.0
+30275,99,United States,26,26000000.0
+30276,140,Canada,28,3500000.0
+30277,37,United States,6,31338000.0
+30279,0,Israel,15,
+30280,300,United States,19,110000000.0
+30281,7,United States,13,60000000.0
+30282,3,United States,12,22666000.0
+30283,640,United States,20,11607000.0
+30284,130,United States,1,15610000.0
+30285,4,United States,1,
+30286,3,United States,14,332000.0
+30288,2,United States,1,
+30289,14,New Zealand,8,706000.0
+30290,0,,8,
+30291,40,United States,10,35000000.0
+30292,1,United States,2,
+30293,0,,1,
+30294,10,United States,46,8800000.0
+30295,31,United Kingdom,17,2500000.0
+30296,190,United States,22,8884000.0
+30297,10,United States,46,8800000.0
+30298,61,United States,18,12500000.0
+30299,0,United States,5,
+30300,730,United States,16,600000000.0
+30302,0,United States,5,2400000.0
+30304,0,United States,0,
+30305,39,India,17,1000000.0
+30306,33,Argentina,3,169000.0
+30307,10,United States,0,10000000.0
+30308,3800,India,18,300000000.0
+30309,47,Jordan,16,6000000.0
+30303,210,United States,46,170200000.0
+30311,49,United States,9,
+30312,3,United States,7,200000.0
+30313,2,United States,3,22941000.0
+30314,110,China,7,230331000.0
+30315,80,United States,0,1946000.0
+30316,27,United States,21,24584000.0
+30317,3,Lithuania,10,
+30318,160,United States,25,100000000.0
+30320,0,,2,
+30321,3,United States,13,
+30322,7,Spain,3,
+30323,0,United States,6,
+30324,0,United Kingdom,2,
+30325,27,United Kingdom,14,16000000.0
+30326,0,China,4,
+30327,250,Canada,16,4608000.0
+30328,0,United States,0,
+30329,0,United States,0,
+30330,0,United States,3,
+30331,0,United States,3,2000000.0
+30332,0,Spain,11,
+30333,200,United States,2,3956000.0
+30334,31,South Korea,9,58000.0
+30335,3,United States,10,3498000.0
+30336,0,United States,5,
+30337,650,United States,30,250000000.0
+30338,87,United States,13,18052000.0
+30339,12,United States,13,2785000.0
+30340,37,United States,5,7474000.0
+30341,23,United States,8,9000000.0
+30342,18,India,20,500000.0
+30343,17,United States,15,1000000.0
+30344,7,Spain,12,6000000.0
+30345,0,United States,0,
+30346,7700,United States,22,4231766000.0
+30347,3,Australia,2,3000000.0
+30348,3,United States,2,1500000.0
+30349,140,United States,11,50000000.0
+30350,5,United States,21,64500000.0
+30351,0,United States,5,
+30352,6,Philippines,18,2761000.0
+30353,34,United States,12,4519000.0
+30354,21,United States,14,10553000.0
+30355,390,United States,20,2000000.0
+30356,0,United States,0,
+30357,30,United Kingdom,22,4080000.0
+30358,6,United States,4,4956000.0
+30359,4,South Korea,1,
+30360,0,United States,3,
+30362,19,Germany,14,3213000.0
+30363,5,United States,5,153000.0
+30364,4,United States,17,97800000.0
+30365,1100,United States,1,70027000.0
+30367,6,United States,29,6674000.0
+30368,6,United States,2,446000.0
+30369,0,United States,0,
+30370,3,United States,2,
+30371,10,United States,10,12455000.0
+30372,25,United States,6,25000000.0
+30373,1,United States,1,103000.0
+30374,0,United States,0,
+30375,3,United States,10,4420000.0
+30376,1,United States,8,2400000.0
+30377,0,United States,5,34000000.0
+30378,1,France,7,
+30379,8,United States,5,1000000.0
+30380,380,United States,29,32000000.0
+30381,2,United States,13,5932000.0
+30382,37,United States,0,4054000.0
+30383,2,United States,1,3922000.0
+30384,0,United States,2,
+30385,5,United States,3,7000000.0
+30386,0,United States,4,2000000.0
+30387,3,United States,6,4157000.0
+30388,0,United States,3,
+30389,41,India,5,1358000.0
+30390,0,United States,0,
+30391,0,United States,3,4200000.0
+30392,8,India,19,310000.0
+30393,1,United States,1,
+30394,89,United States,2,22787000.0
+30395,27,United States,13,2500000.0
+30396,0,,2,2000000.0
+30397,0,Germany,7,
+30398,37,United States,1,3057000.0
+30399,23,United States,20,38265000.0
+30400,29,United States,0,3077000.0
+30401,1,United States,6,7000000.0
+30402,27,United States,11,4749000.0
+30403,89,Sweden,25,3000000.0
+30404,0,Spain,5,
+30405,0,United States,0,
+30406,0,United States,0,
+30407,48,United States,21,12601000.0
+30408,27,United States,1,1126000.0
+30409,5,United States,17,4789000.0
+30410,1,United States,2,36191000.0
